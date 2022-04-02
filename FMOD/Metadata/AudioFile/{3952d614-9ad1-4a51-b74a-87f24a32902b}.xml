@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{3952d614-9ad1-4a51-b74a-87f24a32902b}">
+		<property name="assetPath">
+			<value>Sounds/Footsteps/Tile-14.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.81599999999999995</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{fbccd96e-a85e-488f-92a9-f4cfeb5283ec}</destination>
+		</relationship>
+	</object>
+</objects>

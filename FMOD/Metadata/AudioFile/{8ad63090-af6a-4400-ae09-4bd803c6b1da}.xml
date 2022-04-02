@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{8ad63090-af6a-4400-ae09-4bd803c6b1da}">
+		<property name="assetPath">
+			<value>Sounds/Robotic/221342-Robot_Arm_Movement_04.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.04915625</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{fbccd96e-a85e-488f-92a9-f4cfeb5283ec}</destination>
+		</relationship>
+	</object>
+</objects>
