@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="ParameterPreset" id="{102bcb37-9faa-4011-bc29-29633d5a75fe}">
 		<property name="name">
-			<value>Terrain</value>
+			<value>Tiles</value>
 		</property>
 		<relationship name="folder">
 			<destination>{6bb8d8d5-50ad-4af7-8b77-4e8dacf65ffb}</destination>
@@ -19,10 +19,10 @@
 			<value>4</value>
 		</property>
 		<property name="enumerationLabels">
-			<value>Grass</value>
-			<value>Gravel</value>
-			<value>Wood</value>
-			<value>Water</value>
+			<value>Blue</value>
+			<value>Teal</value>
+			<value>White</value>
+			<value>Orange</value>
 		</property>
 		<property name="initialValue">
 			<value>0</value>
